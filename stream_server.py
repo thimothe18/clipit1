@@ -169,7 +169,9 @@ while streamers_index < 5:
 								#'pip3 install boto3',
 								#'pip3 install clipboard',
 								'pip3 install streamlink',
-								'export PATH=$PATH:/home/ubuntu/Desktop',
+								'cd clipit1',
+								'export PATH=$PATH:/home/ubuntu/Desktop/clipit1',
+								'git pull git@github.com:thimothe18/clipit1.git',
 								#'pip3 install pymongo[srv]',
 								'python3 stream_client.py'
 						]
