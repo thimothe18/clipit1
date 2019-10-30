@@ -171,7 +171,7 @@ while streamers_index < 5:
 								#'pip3 install clipboard',
 								'pip3 install streamlink',
 								'cd clipit1',
-								'export PATH=$PATH:/home/ubuntu/Desktop/clipit1',
+								'export PATH=$PATH:/home/ubuntu/Desktop',
 								'git pull git@github.com:thimothe18/clipit1.git',
 								#'pip3 install pymongo[srv]',
 								'python3 stream_client.py'
@@ -232,6 +232,6 @@ while streamers_index < 5:
 		continue
 
 	if time_counter > 10:
-	restart()
+		restart()
 	else:
 		print("Ca ne fais que " + str(time_counter) + "/100")
