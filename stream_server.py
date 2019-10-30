@@ -118,7 +118,7 @@ while streamers_index < 5:
 				print("script and vm stopped")
 			else:
 				print("instance not running")
-		elif titre1 == "DIRECT":
+		elif titre1 == "LIVE" or titre1 == "DIRECT":
 			print("en direct tmtc")
 			filters = [
 				{
