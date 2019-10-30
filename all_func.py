@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-#List of every function useful
+#List of every function usefultesterie
 
 import sys
 import os
