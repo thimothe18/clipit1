@@ -49,7 +49,7 @@ def writecsv_headers():
 		a.writerow(row)
 		print("Successfully written headers in csv file")
 
-#Try to clip on the first popuptest
+#Try to clip on the first popupbite
 def click_popupbtn():
 	try:
 		mature_btn = driver.find_element_by_id('mature-link')
