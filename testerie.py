@@ -1,5 +1,8 @@
+import time
 
 class cheval:
+	def __init__(self, streamer_name):
+		self.streamer_name = "poney"
 
 	def test(self):
 		self.poney = 'poney'
@@ -13,5 +16,8 @@ class cheval:
 		print(self.cheval)
 		print(self.poney)
 
-p = cheval()
-p.tout()
+	def test2(self):
+		print(self.streamer_name)
+
+p = cheval(streamer_name)
+p.test2()

@@ -1,0 +1,413 @@
+1573156647993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Thimothé Das\\AppData\\Local\\Temp\\rust_mozprofile.yIsF9CSrUUUm"
+*** You are running in headless mode.
+1573156651074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573156651074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573156651074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573156651075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573156657185	Marionette	INFO	Listening on port 63384
+1573156657485	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 4692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi37578846, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi37578846, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi37578846, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi37578846, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv/3yumzvi6r4wfycsk7vt1kbtto9s0n3/0.0.8/e59acce698e906b0692efe0e61d558c7/viewer.js, line 75: TypeError: window.EmotesMode is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4692, Gecko_IOThread] WARNING: file z:/task_1571244707/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8288, Chrome_ChildThread] 1573161818254	Marionette	INFO	Stopped listening on port 63384
+in.cc, line 341
+JavaScript error: https://static.twitchcdn.net/assets/vendor-4540fddd818221e8c626.js, line 1: Error: 
+JavaScript error: https://static.twitchcdn.net/assets/vendor-4540fddd818221e8c626.js, line 1: Error: 
+JavaScript error: https://www.twitch.tv/lestream, line 1: Error: Loading CSS chunk 423 failed.
+(https://static.twitchcdn.net/assets/features.sub-modal.components.sub-modal-9277463b03e84a5e8aae.css)
+JavaScript error: https://www.twitch.tv/lestream, line 1: Error: Loading CSS chunk 347 failed.
+(https://static.twitchcdn.net/assets/features.community-points.components.flame-animation-066a9b7fb8044f594332.css)
+JavaScript error: https://www.twitch.tv/lestream, line 1: Error: Loading CSS chunk 346 failed.
+(https://static.twitchcdn.net/assets/features.community-points.components.explode-animation-16ad6d4142c124348a00.css)
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi53971638, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi53971638, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi53971638, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi53971638, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv/3yumzvi6r4wfycsk7vt1kbtto9s0n3/0.0.8/e59acce698e906b0692efe0e61d558c7/viewer.js, line 75: TypeError: window.EmotesMode is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370120,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11548, Gecko_IOThread] WARNING: file z:/task_1571244707/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5308, Chrome_1573161231803	Marionette	INFO	Stopped listening on port 64584
+1573161247324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Thimothé Das\\AppData\\Local\\Temp\\rust_mozprofile.ARvEPKFOdOeh"
+*** You are running in headless mode.
+1573161251325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573161251325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573161251326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573161251326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573161257661	Marionette	INFO	Listening on port 11889
+1573161257980	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js, line 1: Error: 
+[Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi11760708, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi11760708, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi11760708, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi11760708, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: https://3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv/3yumzvi6r4wfycsk7vt1kbtto9s0n3/0.0.8/e59acce698e906b0692efe0e61d558c7/viewer.js, line 75: TypeError: window.EmotesMode is undefined
+Local\\Temp\\rust_mozprofile.ZJlfa272jNEE"
+*** You are running in headless mode.
+1573161802855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573161802855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573161802855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573161802856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573161808021	Marionette	INFO	Listening on port 14233
+1573161808142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi82933060, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi82933060, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi82933060, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi82933060, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv/3yumzvi6r4wfycsk7vt1kbtto9s0n3/0.0.8/e59acce698e906b0692efe0e61d558c7/viewer.js, line 75: TypeError: window.EmotesMode is undefined
+Local\\Temp\\rust_mozprofile.GpyVDlFYuVjV"
+*** You are running in headless mode.
+1573161866352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573161866352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573161866352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573161866352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573161872604	Marionette	INFO	Listening on port 14533
+1573161872814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi54769104, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi54769104, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi54769104, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi54769104, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js, line 1: Error: 
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi63984760, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi63984760, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi63984760, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi63984760, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi27856008, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi27856008, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi27856008, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi27856008, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi66215835, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi66215835, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi66215835, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi66215835, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6436, Gecko_IOThread] WARNING: file z:/task_1571244707/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1573162696072	Marionette	INFO	Stopped listening on port 14533
+1573162705475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Thimothé Das\\AppData\\Local\\Temp\\rust_mozprofile.0SoI3R1WpUKd"
+*** You are running in headless mode.
+1573162706227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573162706227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573162706227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573162706227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573162711823	Marionette	INFO	Listening on port 17693
+1573162712316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js, line 1: Error: 
+JavaScript error: https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js, line 1: Error: 
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 372, MediaDecoderStateMachine #1] WARNING: Decoder=26270789800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file z:/task_1571244707/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+1573163206101	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573163206107	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+$c/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485850
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+$c@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485697
+t/t.onClick/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1487492
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+t/t.onClick@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1486918
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714254
+g/t._handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:715497
+imBb/</g.prototype.handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:712378
+f@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714505
+event.synthesizeKey@chrome://marionette/content/event.js:412:11
+event.sendSingleKey@chrome://marionette/content/event.js:1068:9
+event.sendKeyDown@chrome://marionette/content/event.js:1036:9
+dispatchKeyDown/<@chrome://marionette/content/action.js:1189:11
+dispatchKeyDown@chrome://marionette/content/action.js:1178:10
+toEvents/<@chrome://marionette/content/action.js:1141:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1573163206151	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+]]
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Exiting due to channel error.
+1573163585735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Thimothé Das\\AppData\\Local\\Temp\\rust_mozprofile.AazBNjQa730s"
+*** You are running in headless mode.
+1573163586456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573163586456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573163586456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573163586456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573163590381	Marionette	INFO	Listening on port 21031
+1573163590478	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi18526453, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi18526453, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi18526453, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi18526453, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+1573164146319	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573164146323	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+$c/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485850
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+$c@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485697
+t/t.onClick/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1487492
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+t/t.onClick@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1486918
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714254
+g/t._handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:715497
+imBb/</g.prototype.handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:712378
+f@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714505
+event.synthesizeKey@chrome://marionette/content/event.js:412:11
+event.sendSingleKey@chrome://marionette/content/event.js:1068:9
+event.sendKeyDown@chrome://marionette/content/event.js:1036:9
+dispatchKeyDown/<@chrome://marionette/content/action.js:1189:11
+dispatchKeyDown@chrome://marionette/content/action.js:1178:10
+toEvents/<@chrome://marionette/content/action.js:1141:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1573164146365	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+]]
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+1573164464910	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573164464915	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+$c/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485850
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+$c@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485697
+t/t.onClick/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1487492
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+t/t.onClick@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1486918
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714254
+g/t._handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:715497
+imBb/</g.prototype.handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:712378
+f@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714505
+event.synthesizeKey@chrome://marionette/content/event.js:412:11
+event.sendSingleKey@chrome://marionette/content/event.js:1068:9
+event.sendKeyDown@chrome://marionette/content/event.js:1036:9
+dispatchKeyDown/<@chrome://marionette/content/action.js:1189:11
+dispatchKeyDown@chrome://marionette/content/action.js:1178:10
+toEvents/<@chrome://marionette/content/action.js:1141:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1573164464942	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:1010:19
+observe@resource://gre/modules/ExtensionContent.jsm:1028:27
+]]
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi60652704, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi60652704, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi60652704, line 259: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js#_moatApi60652704, line 259: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571244707/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: TypeError: The expression cannot be converted to return the specified type.
+1573164696497	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573164696502	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+$c/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485850
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+$c@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1485697
+t/t.onClick/</<@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1487492
+s/</<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769084
+s/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:769189
+l/<@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:768127
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:767904
+t/t.onClick@https://static.twitchcdn.net/assets/core-4404ccfed75dc4f62ee0.js:1:1486918
+l@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714254
+g/t._handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:715497
+imBb/</g.prototype.handleKey@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:712378
+f@https://static.twitchcdn.net/assets/vendor-d12340af905ff146fd84.js:1:714505
+event.synthesizeKey@chrome://marionette/content/event.js:412:11
+event.sendSingleKey@chrome://marionette/content/event.js:1068:9
+event.sendKeyDown@chrome://marionette/content/event.js:1036:9
+dispatchKeyDown/<@chrome://marionette/content/action.js:1189:11
+dispatchKeyDown@chrome://marionette/content/action.js:1178:10
+toEvents/<@chrome://marionette/content/action.js:1141:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1573164696532	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64

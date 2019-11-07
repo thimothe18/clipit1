@@ -1,0 +1,6 @@
+geckodriver.log
+lestream.csv
+test.csv
+testerie.py
+all_func.py
+_pycache_/

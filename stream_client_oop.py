@@ -26,16 +26,17 @@ from subprocess import Popen
 from time import sleep
 
 class test:
-	def __init__(self, driver, streamer_name, coef, delai_time, breakpoint):
+	def __init__(self, streamer_name, coef, delai_time, breakpoint):
 		self.streamer_name = streamer_name
-		self.driver = driver
 		self.coef = coef
 		self.delai_time = delai_time
 		self.breakpoint = breakpoint
 
 	def initiate_browser(self):
+		self.restart_time = time.time()
 		options = Options()
 		options.headless = True
+		self.driver = webdriver.Firefox(options=options)
 		self.streamer_link = "https://www.twitch.tv/" + self.streamer_name
 		self.driver.get(self.streamer_link)
 		link = self.streamer_link
@@ -110,7 +111,6 @@ class test:
 			self.breakpointxcoef = self.breakpoint * self.coef
 			print("Breakpoint: " + str(self.breakpoint) + " and breakpoint x coef : " + str(self.breakpointxcoef))
 			print("--------------------------" + "---------------------------------")
-			return breakpoint
 		else : 
 			print("ca fais moins d'une heure donc pas de calcul de breakpoint")
 
@@ -255,6 +255,20 @@ class test:
 		self.driver.quit()
 		print("driver discarded successfully")
 
+	def restart(self):
+		if time.time() - self.restart_time > 3600:
+			self.restart_time = time.time()
+			self.driver.quit()
+			print("argv was",sys.argv)
+			print("sys.executable was", sys.executable)
+			print("restart now")
+			os.execv(sys.executable, ['python3'] + sys.argv)
+			print("Restarting script")
+			print("Script successfully restarted")
+		else:
+			time_passed = time.time() - self.restart_time
+			print("Restart time is only " + str(time_passed)  + "/" + "3600")
+
 	def clipcreator(self):
 		if self.num_page_items > self.breakpointxcoef:
 			p.time_counter()
@@ -266,22 +280,24 @@ class test:
 		else:
 			print("clip not made this time")
 
-	def everything(self):
+	def watcher(self):
 		while self.breakpoint > 0:
 			p.breakpointaverage_calculator()
 			p.current_nb_pages()
 			p.testerie()
 			p.clipcreator()
+			p.restart()
+
     # execute only if run as a script
 if __name__ == "__main__":
-	#try:
-	p = test(webdriver.Firefox(), 'lestream', 1.1, 1801, 1)
-	link = p.initiate_browser()
-	print(link)
-	p.writecsv_headers()
-	p.twitch_login()
-	p.everything()
-	p.quitter()
-	#except Exception as e:
-		#p.exception()
-		#p.quitter()
+	try:
+		p = test('lestream', 1.1, 1801, 1)
+		link = p.initiate_browser()
+		print(link)
+		p.writecsv_headers()
+		p.twitch_login()
+		p.watcher()
+	except Exception as e:
+		p.exception()
+		p.quitter()
+		p.restart()
