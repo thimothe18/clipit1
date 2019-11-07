@@ -14,4 +14,4 @@ from subprocess import Popen, PIPE, STDOUT
 # subprocess.run(["tar -xvzf geckodriver-v0.26.0-linux64.tar.gz"])
 # subprocess.run(["chmod +x geckodriver"])
 # subprocess.run(["sudo apt-get install firefox"])
-subprocess.run(["sudo apt-get purge firefox", "-y"])
+subprocess.run(["sudo apt-get purge firefox", "-y"], shell=True)
