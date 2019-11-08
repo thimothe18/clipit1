@@ -256,7 +256,7 @@ class test:
 		print("driver discarded successfully")
 
 	def restart(self):
-		if time.time() - self.restart_time > 3600:
+		if time.time() - self.restart_time > 5000:
 			self.restart_time = time.time()
 			self.driver.quit()
 			print("argv was",sys.argv)
@@ -280,6 +280,16 @@ class test:
 		else:
 			print("clip not made this time")
 
+	def restarter(self):
+		self.restart_time = time.time()
+		self.driver.quit()
+		print("argv was",sys.argv)
+		print("sys.executable was", sys.executable)
+		print("restart now")
+		os.execv(sys.executable, ['python3'] + sys.argv)
+		print("Restarting script")
+		print("Script successfully restarted")
+
 	def watcher(self):
 		while self.breakpoint > 0:
 			p.breakpointaverage_calculator()
@@ -291,13 +301,14 @@ class test:
     # execute only if run as a script
 if __name__ == "__main__":
 	try:
-		p = test('lestream', 1.1, 1801, 1)
+		p = test('lestream', 1.5, 1801, 1)
 		link = p.initiate_browser()
 		print(link)
 		p.writecsv_headers()
 		p.twitch_login()
 		p.watcher()
-	except Exception as e:
-		p.exception()
 		p.quitter()
-		p.restart()
+	except Exception as e:
+		print(e)
+		p.exception()
+		p.restarter()
